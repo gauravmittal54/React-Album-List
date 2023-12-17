@@ -20,17 +20,22 @@ This project is a simple React application for managing a list of albums. It all
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/albums-list.git
-  ```
+   git clone https://github.com/gauravmittal54/React-Album-List.git
+   ```
+
 2. Install dependencies:
+   
   ```bash
-  cd albums-list
+  cd React-Album-List
   npm install
   ```
+
 3. Start the application:
+   
    ```bash
    npm start
    ```
+   
 The app will be accessible at http://localhost:3000.
 
 # Project Structure
