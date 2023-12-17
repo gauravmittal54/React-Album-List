@@ -25,10 +25,10 @@ This project is a simple React application for managing a list of albums. It all
 
 2. Install dependencies:
    
-  ```bash
-  cd React-Album-List
-  npm install
-  ```
+      ```bash
+     cd React-Album-List
+     npm install
+     ```
 
 3. Start the application:
    
